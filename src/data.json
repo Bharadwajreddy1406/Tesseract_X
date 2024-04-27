@@ -1,0 +1,91 @@
+[
+    {
+        "year":"1",
+        "sem":"1",
+        "sub":[
+            "Engineering Mathematics-I",
+            "Engineering Physics",
+            "Engineering Chemistry",
+            "Engineering Graphics",
+            "Basic Electrical Engineering"
+        ]
+    }, 
+    {
+        "year":"1",
+        "sem":"2",
+        "sub":[
+            "Engineering Mathematics-II",
+            "Engineering Physics",
+            "Engineering Chemistry",
+            "Engineering Graphics",
+            "Basic Electrical Engineering"
+        ]
+    },
+    {
+        "year":"2",
+        "sem":"1",
+        "sub":[
+            "Engineering Mathematics-III",
+            "Engineering Physics",
+            "Engineering Chemistry",
+            "Engineering Graphics",
+            "Basic Electrical Engineering"
+        ]
+    },
+    {
+        "year":"2",
+        "sem":"2",
+        "sub":[
+            "Engineering Mathematics-IV",
+            "Engineering Physics",
+            "Engineering Chemistry",
+            "Engineering Graphics",
+            "Basic Electrical Engineering"
+        ]
+    },
+    {
+        "year":"3",
+        "sem":"1",
+        "sub":[
+            "Engineering Mathematics-V",
+            "Engineering Physics",
+            "Engineering Chemistry",
+            "Engineering Graphics",
+            "Basic Electrical Engineering"
+        ]
+    },
+    {
+        "year":"3",
+        "sem":"2",
+        "sub":[
+            "Engineering Mathematics-VI",
+            "Engineering Physics",
+            "Engineering Chemistry",
+            "Engineering Graphics",
+            "Basic Electrical Engineering"
+        ]
+    },
+    {
+        "year":"4",
+        "sem":"1",
+        "sub":[
+            "Engineering Mathematics-VII",
+            "Engineering Physics",
+            "Engineering Chemistry",
+            "Engineering Graphics",
+            "Basic Electrical Engineering"
+        ]
+    },
+    {
+        "year":"4",
+        "sem":"2",
+        "sub":[
+            "Engineering Mathematics-VIII",
+            "Engineering Physics",
+            "Engineering Chemistry",
+            "Engineering Graphics",
+            "Basic Electrical Engineering"
+        ]
+    }
+]       
+    
